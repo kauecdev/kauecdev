@@ -46,7 +46,16 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-
+  
+  <li><h3 align="left">Game Development:</h3></li>
+  
+  <a href="https://www.unrealengine.com/pt-BR" target="_blank"> <img src="https://user-images.githubusercontent.com/61801350/197031659-bcfef630-334a-4b53-a8b9-95b2e56bbc83.png" alt="unreal engine" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/61801350/197031775-ba49748f-fee8-4992-aa1d-da1458aa166e.png" alt="unity engine" width="40" height="40"/>
+  </a>
+  <a href="https://godotengine.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/61801350/197031583-ea9e9d0e-7841-40f6-8486-f6c1cadfc3d6.png" alt="godot engine" width="40" height="40"/>
+  </a>
+ 
 
   <li><h3>Other tools</h3></li>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
